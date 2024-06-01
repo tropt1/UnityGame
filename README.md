@@ -1,7 +1,7 @@
 # UnityGame
 Platform: Unity
 
-#Installation
+# Installation
 
 Clone the Repository:
 ```git clone https://github.com/yourusername/GameTitle.git```
